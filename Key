@@ -275,7 +275,7 @@ local function CreateGUI()
         local InstaBtn = Instance.new("TextButton", MainFrame)
         InstaBtn.Size = UDim2.new(0.85, 0, 0, 35)
         InstaBtn.Position = UDim2.new(0.075, 0, 0, currentYOffset)
-        InstaBtn.Text = "      FOLLOW INSTAGRAM"
+        InstaBtn.Text = "      follow ko gaw haha"
         InstaBtn.Font = "GothamBold";
         InstaBtn.TextSize = 14
         InstaBtn.BackgroundColor3 = Color3.fromRGB(225, 48, 108)
